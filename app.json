@@ -7,6 +7,11 @@
     "icon": "./assets/images/icon.png",
     "scheme": "chatapp",
     "userInterfaceStyle": "automatic",
+    "android": {
+      "package": "com.lenovo.chatapp"
+    }
+  },
+
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
@@ -45,4 +50,4 @@
       "reactCompiler": true
     }
   }
-}
+
